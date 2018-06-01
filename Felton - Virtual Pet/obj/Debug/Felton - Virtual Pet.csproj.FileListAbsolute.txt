@@ -1,0 +1,7 @@
+C:\Users\WeCanCodeIT\source\repos\Felton - Virtual Pet\Felton - Virtual Pet\bin\Debug\Felton - Virtual Pet.exe.config
+C:\Users\WeCanCodeIT\source\repos\Felton - Virtual Pet\Felton - Virtual Pet\bin\Debug\Felton - Virtual Pet.exe
+C:\Users\WeCanCodeIT\source\repos\Felton - Virtual Pet\Felton - Virtual Pet\bin\Debug\Felton - Virtual Pet.pdb
+C:\Users\WeCanCodeIT\source\repos\Felton - Virtual Pet\Felton - Virtual Pet\obj\Debug\Felton - Virtual Pet.csprojAssemblyReference.cache
+C:\Users\WeCanCodeIT\source\repos\Felton - Virtual Pet\Felton - Virtual Pet\obj\Debug\Felton - Virtual Pet.csproj.CoreCompileInputs.cache
+C:\Users\WeCanCodeIT\source\repos\Felton - Virtual Pet\Felton - Virtual Pet\obj\Debug\Felton - Virtual Pet.exe
+C:\Users\WeCanCodeIT\source\repos\Felton - Virtual Pet\Felton - Virtual Pet\obj\Debug\Felton - Virtual Pet.pdb
