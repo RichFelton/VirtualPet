@@ -71,39 +71,57 @@ namespace Felton___Virtual_Pet
 
         public void Tick()
         {
-            Random hunger = new Random();
-            //int hungry = hunger.Next(0, 10);
-
-
-            if (Hunger >= 5)
+            //if (Hunger >= 5)
+            //{
+            //    Hunger--;
+            //}
+            //else
+            //{
+            Hunger++;
+            if (Hunger < 5)
             {
-                Hunger--;
-            }
-            else
-            {
-                Hunger++;
-            }
 
-            
+            }
 
             Thirst++;
-            Random thirsty = new Random();
-            int drink = thirsty.Next(0,10);
+            if (Thirst < 5)
+            {
+
+            }
 
             Waste++;
-            if (waste >= 5 || drink >= 6)
+            if (Waste < 5)
+            {
+
+            }
+
+            if (Hunger >= 5 || Thirst <= 3)
             {
                 int poop = waste--;
             }
             else
             {
                 int poop = waste++;
-            }
-
-
+}
 
 
         }
+
+
+
+        
+
+
+            
+
+
+        
+
+        //public static void DoSomething(Random hunger)
+        //{
+        //    Console.WriteLine(nextHungerState);
+
+        //}
 
     }//class
 }//namespace
